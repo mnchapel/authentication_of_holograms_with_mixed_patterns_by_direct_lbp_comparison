@@ -17,8 +17,6 @@ The file `input.yml` indicates the videos to use at the different step of the me
 
 ## Resources
 
-<span style="color:red">/!\ IMPORTANT: the images given with this supplementary materials are confidential and can be used ONLY to test the code. As explained in the submitted paper, these data cannot be shared since they contain security measures to combat fraud.</span>
-
 The folder `resources/` contains a subpart of our dataset. We have selected four videos of the hologram 0 of the French passport to test the code. The folder structure for each video is as follows:
 
 - `<video_number>`: the id of the video
